@@ -40,7 +40,7 @@ namespace Library
             this.Phone = phone;
         }
 
-        // Method to display information about a Mamber
+        // Method to display information about a Member
         public void DisplayInfo()
         {
             Console.WriteLine($"Member ID: {MemberId}");
